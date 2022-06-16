@@ -1,0 +1,41 @@
+掌握新技術，實際完成App開發
+課程時數
+78 hr
+
+Kotlin 基礎語法
+
+Kotlin 基礎語法
+認識Kotlin語言
+基本資料型態
+條件與迴圈控制
+類別和物件
+繼承介面與擴展
+物件運算與宣告
+
+Android基礎開發
+
+Android基礎開發
+安裝Android Studio
+介面設計功能
+Git&GitHub版本控制
+物件控制
+事件監聽
+
+Android開發應用
+
+Android開發應用
+Activity介面
+認識訊息元件
+功能表選單元件
+Activity生命週期
+SharedPreferences物件
+
+Android開發實務
+
+Android開發實務
+files檔案物件
+MediaPlayer元件
+Maps應用元件
+建立SQLite資料庫
+認識Firebase Kit
+專題製作與發佈
